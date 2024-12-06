@@ -1,24 +1,17 @@
-# tarefas
+# Projeto Tarefas  
+[![Vue.js](https://img.shields.io/badge/vue.js-3.0.0-green.svg)](https://vuejs.org/)  
 
-## Project setup
-```
-npm install
-```
+## Descrição  
+O **Projeto Tarefas** é uma aplicação simples e funcional desenvolvida com **Vue.js**, que permite:  
+- Adicionar novas tarefas;  
+- Excluir tarefas existentes;  
+- Marcar tarefas como concluídas;  
+- Armazenar o progresso das tarefas no **LocalStorage**.  
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Este projeto foi criado para praticar conceitos fundamentais do desenvolvimento com Vue.js, como manipulação de eventos, componentização e gerenciamento de estado.  
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Tecnologias Utilizadas  
+- Vue.js  
+- CSS  
+- LocalStorage  
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
